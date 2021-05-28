@@ -136,3 +136,8 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# Custom venvs folders i like to have lying around
+venvs/**/bin
+venvs/**/lib*
+venvs/**/share
